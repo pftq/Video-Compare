@@ -5,6 +5,9 @@ This is sensitive enough that it picks out the fact MP4s introduce a slight 20ms
 
 <img width="861" height="706" alt="image" src="https://github.com/user-attachments/assets/9d732361-b19a-446e-b88e-99991ae8fa4d" />
 
+<img width="862" height="702" alt="image" src="https://github.com/user-attachments/assets/2154b843-0635-41ff-b151-eebb9a493d6b" />
+
+
 Credits:
 - [Python](https://www.python.org/) — application runtime
 - [Tcl/Tk](https://www.tcl.tk/) via Tkinter — desktop interface
