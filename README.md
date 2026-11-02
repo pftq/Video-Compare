@@ -5,7 +5,10 @@ This is sensitive enough that it picks out the fact MP4s introduce a slight 20ms
 
 <img width="861" height="706" alt="image" src="https://github.com/user-attachments/assets/9d732361-b19a-446e-b88e-99991ae8fa4d" />
 
+Also lets you drill down on exact differences between videos at a frame by frame timestamp level
 <img width="862" height="702" alt="image" src="https://github.com/user-attachments/assets/2154b843-0635-41ff-b151-eebb9a493d6b" />
+
+<img width="871" height="686" alt="image" src="https://github.com/user-attachments/assets/30704326-5d2d-4aa8-b485-979b4040850d" />
 
 
 Credits:
