@@ -10,6 +10,9 @@ Also lets you drill down on exact differences between videos at a frame by frame
 
 <img width="871" height="686" alt="image" src="https://github.com/user-attachments/assets/30704326-5d2d-4aa8-b485-979b4040850d" />
 
+And comparing music files - it's able to detect the pops I fixed in mastering on a song.
+<img width="860" height="703" alt="image" src="https://github.com/user-attachments/assets/f124a4ca-463f-4bc3-9831-30adf93d0276" />
+
 
 Credits:
 - [Python](https://www.python.org/) — application runtime
