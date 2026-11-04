@@ -2,6 +2,11 @@
 Compares 2 videos that should be the same (excluding slight compression differences).  Useful for identifying bad exports.  Also works on audio/music.
 
 Download link: https://github.com/pftq/Video-Compare/releases/tag/20261102
+You may also find these useful:
+- Video Debanding (fixes quality issues with repeat re-processing/compression) https://github.com/pftq/Video-Debanding
+- Video Compare (to check export errors, differences, etc) https://github.com/pftq/Video-Compare
+- MP4 Audio Delay Fix (20ms delay at start of file) https://github.com/pftq/MP4-Audio-Delay-Fix
+- Video Frame Sync (syncing 2 files that drift out of sync) https://github.com/pftq/Video-Frame-Sync
 
 This is sensitive enough that it picks out the fact MP4s introduce a slight 20ms delay in the audio start (so re-exporting the same MP4 multiple times will cause the video/audio to be out of sync).
 
