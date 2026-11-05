@@ -7,6 +7,7 @@ You may also find these useful:
 - Video Compare (to check export errors, differences, etc) https://github.com/pftq/Video-Compare
 - MP4 Audio Delay Fix (20ms delay at start of file) https://github.com/pftq/MP4-Audio-Delay-Fix
 - Video Frame Sync (syncing 2 files that drift out of sync) https://github.com/pftq/Video-Frame-Sync
+- Video Color Match (correcting color grading drift) https://github.com/pftq/VideoColorMatch
 
 This is sensitive enough that it picks out the fact MP4s introduce a slight 20ms delay in the audio start (so re-exporting the same MP4 multiple times will cause the video/audio to be out of sync).
 
