@@ -2,6 +2,7 @@
 Compares 2 videos that should be the same (excluding slight compression differences).  Useful for identifying bad exports.  Also works on audio/music.
 
 Download link: https://github.com/pftq/Video-Compare/releases/tag/20261102
+
 You may also find these useful:
 - Video Debanding (fixes quality issues with repeat re-processing/compression) https://github.com/pftq/Video-Debanding
 - Video Compare (to check export errors, differences, etc) https://github.com/pftq/Video-Compare
